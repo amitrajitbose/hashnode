@@ -1,6 +1,6 @@
 ## Intro To Database Management System
 
-# Introduction To DBMS
+### Introduction To DBMS
 This is essentially a blog that came out as a result of an NPTEL course I took during my college days.
 
 ### Schema & Instance
