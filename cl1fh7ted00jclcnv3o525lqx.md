@@ -1,4 +1,4 @@
-## Dual Boot Ubuntu on Windows
+# Dual Boot Ubuntu on Windows
 
 Tired of the black screen on Command Prompt, enough of using the mouse to guide the pointer through the screen, you now want to code directly on the Terminal or more appropriately get a bit of that geeky feeling as a computer scientist or a budding hacker, who magically writes commands on the Terminal window and transforms the world. 
 
@@ -43,6 +43,10 @@ Select on the free space in the list of locations and then click on the + sign. 
 After this, the Ubuntu Setup guide will guide you easily through setting up and running Ubuntu. Please try to have a good Internet connection, because several packages and files may get updated or installed during the installation process. That's it. You're running Ubuntu. 
 
 Acknowledgment: I would like to take this opportunity and thank [It's FOSS](https://itsfoss.com/) for helping me through the entire process of installing Ubuntu on dual boot mode. Their instructions were greatly helpful in getting me started with Ubuntu.
+
+-------
+
+[If you are looking for high-paying development jobs at startups, do check out JunoHQ. Use my referral code (junohq.com/?r=amitb), apply in under 30 seconds, and then start preparing for interviews.](https://junohq.com/?r=amitb)
 
 ------
 I hope you learned something from this blog if you followed it carefully. As a reward for my time and hard work feel free to [buy me a beer or coffee](https://www.buymeacoffee.com/amitrajit).
