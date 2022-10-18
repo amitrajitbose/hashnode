@@ -1,4 +1,4 @@
-## SQL Handbook
+# SQL Handbook
 
 In this blog we will just go through the most important and frequently used fundamental features of SQL (the language used to query relational databases such as MySQL, etc)
 
@@ -251,6 +251,13 @@ Pheww..! :p
 Hope this helps. :)
 
 --------------------------
+
 *Source : [Codecademy](https://www.codecademy.com/learn/learn-sql)*
+
+-------
+
+[If you are looking for high-paying development jobs at startups, do check out JunoHQ. Use my referral code (junohq.com/?r=amitb), apply in under 30 seconds, and then start preparing for interviews.](https://junohq.com/?r=amitb)
+
 --------
+
 I certainly believe you learned something out of this blog if you followed it carefully. As a reward for my time and hard work feel free to [buy me a beer or coffee](https://www.buymeacoffee.com/amitrajit).
