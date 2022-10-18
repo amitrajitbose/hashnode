@@ -1,4 +1,4 @@
-## Numpy 101
+# Numpy 101
 
 ## Introduction
 
@@ -85,5 +85,9 @@ OUTPUT:
     0.816496580928
     [44.]
 ```
+-------
+
+[If you are looking for high-paying development jobs at startups, do check out JunoHQ. Use my referral code (junohq.com/?r=amitb), apply in under 30 seconds, and then start preparing for interviews.](https://junohq.com/?r=amitb)
+
 --------
 I hope you learned something from this blog if you followed it carefully. As a reward for my time and hard work feel free to [buy me a beer or coffee](https://www.buymeacoffee.com/amitrajit).
