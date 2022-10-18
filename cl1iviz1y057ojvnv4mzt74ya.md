@@ -1,4 +1,4 @@
-## Intro To Database Management System
+# Intro To Database Management System
 
 ### Introduction To DBMS
 This is essentially a blog that came out as a result of an NPTEL course I took during my college days.
@@ -94,3 +94,7 @@ This is essentially a blog that came out as a result of an NPTEL course I took d
 ## History & Resources
 - [Course PPT](https://docs.google.com/viewer?a=v&pid=sites&srcid=Z2FyZGl2aWR5YXBpdGguYWMuaW58ZGF0YWJhc2V8Z3g6MmFhNzY1NmQ0ZjUxYjc4ZQ)
 - [Optional](http://4840895.blogspot.com/2009/04/history-of-dbms.html)
+
+-------
+
+[If you are looking for high-paying development jobs at startups, do check out JunoHQ. Use my referral code (junohq.com/?r=amitb), apply in under 30 seconds, and then start preparing for interviews.](https://junohq.com/?r=amitb)
