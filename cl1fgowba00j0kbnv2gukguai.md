@@ -1,4 +1,4 @@
-## Intro to Neural Nets With Pytorch
+# Intro to Neural Nets With Pytorch
 
 Deep learning networks tend to be massive with dozens or hundreds of layers, that's where the term *"deep"* comes from. PyTorch has a nice module `nn` that provides a nice way to efficiently build large neural networks. Let us together explore it in this blog.
 
@@ -414,6 +414,10 @@ model[0].weight
 
 
 Later, we'll see how we can train a neural network to accuractly predict the numbers appearing in the MNIST images.
+
+-------
+
+[If you are looking for high-paying development jobs at startups, do check out JunoHQ. Use my referral code (junohq.com/?r=amitb), apply in under 30 seconds, and start preparing for interviews.](https://junohq.com/?r=amitb)
 
 -------
 
