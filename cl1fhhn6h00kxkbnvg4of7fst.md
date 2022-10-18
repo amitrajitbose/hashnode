@@ -1,4 +1,4 @@
-## Understanding The Sliding Window Maximum Problem
+# Understanding The Sliding Window Maximum Problem
 
 
 In this blog, I aim at explaining a very popular coding interview question to my readers, commonly known as **Sliding Window Maximum**, this formally goes like this
@@ -78,6 +78,8 @@ An alternative version of this problem is the **Sliding Window Minimum**. I woul
 _This problem has been asked in coding interviews for several top tech companies like Google, Amazon, Facebook, Flipkart, Uber, Walmart,Directi, SAP Labs, etc._
 
 Good luck for your interviews!
+-------
 
+[If you are looking for high-paying development jobs at startups, do check out JunoHQ. Use my referral code (junohq.com/?r=amitb), apply in under 30 seconds, and then start preparing for interviews.](https://junohq.com/?r=amitb)
 -------
 I hope you learned something from this blog if you followed it carefully. As a reward for my time and hard work feel free to [buy me a beer or coffee](https://www.buymeacoffee.com/amitrajit).
